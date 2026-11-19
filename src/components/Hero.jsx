@@ -1,5 +1,6 @@
-
-      <div className="flex items-end justify-between bg-[#000000] px-20 py-12 text-[#EEEEEE]">
+export default function Hero() {
+     
+     return (<div className="flex items-end justify-between bg-[#000000] px-20 py-12 text-[#EEEEEE]">
        
 
         <div className="flex gap-4">
@@ -23,3 +24,5 @@
           </button>
         </div>
       </div>
+     )
+}
