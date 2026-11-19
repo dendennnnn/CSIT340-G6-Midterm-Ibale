@@ -4,4 +4,4 @@
             Seats: {seats} | Months: {months}
           </p>
           <p className="mt-2 text-xl">Danielle Ben Ibale</p>
-        </header>
+</header>
